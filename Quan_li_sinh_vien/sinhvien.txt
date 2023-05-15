@@ -1,0 +1,2 @@
+ID       Name               Sex      Age     Toan     Ly       Hoa      Diem TB  Hoc Luc 
+1        manh               nam      18      10.0     10.0     10.0     10.0     Gioi      
